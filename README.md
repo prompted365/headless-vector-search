@@ -1,3 +1,7 @@
+# use with
+- name: supabase-embeddings-generator
+  uses: supabase/embeddings-generator@v0.0.5
+
 ## Headless Vector Search
 
 Provides a vector/similarity search for any documentation site. It's [headless](https://en.wikipedia.org/wiki/Headless_software), so that you can integrate it into your existing website.
